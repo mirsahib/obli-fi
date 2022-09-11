@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/obli-fi/static/css/main.073c9b0a.css",
+    "main.js": "/obli-fi/static/js/main.edca3fbb.js",
+    "static/js/787.d20e28a6.chunk.js": "/obli-fi/static/js/787.d20e28a6.chunk.js",
+    "static/media/logo.svg": "/obli-fi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/obli-fi/index.html",
+    "main.073c9b0a.css.map": "/obli-fi/static/css/main.073c9b0a.css.map",
+    "main.edca3fbb.js.map": "/obli-fi/static/js/main.edca3fbb.js.map",
+    "787.d20e28a6.chunk.js.map": "/obli-fi/static/js/787.d20e28a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.edca3fbb.js"
+  ]
+}
